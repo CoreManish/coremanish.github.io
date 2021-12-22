@@ -12,4 +12,5 @@
 - Screenshot: ![screenshot](images/flashcard.png)
 #### Student Management
 - Technology used : Python, flask, SQLite, HTML, CSS
+- Live link : [Go](https://studentmanage.curecode.repl.co/)
 - Screenshot: ![screenshot](images/studentmanage.png)
