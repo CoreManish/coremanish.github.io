@@ -4,6 +4,7 @@
 - MSc Physics, ISc BHU
 - Enterpreneurship, UPGRAD
 - BSc in programming and Data Science, IITM
+
 ### Projects
 #### Flash card
 - Technology used : Python, flask, SQLite, HTML, CSS
