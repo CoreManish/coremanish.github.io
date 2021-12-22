@@ -4,7 +4,13 @@
 - MSc Physics, ISc BHU
 - Enterpreneurship, UPGRAD
 - BSc in programming and Data Science, IITM
-
+### Skills
+- Languages : C, PHP, Python, JavaScript
+- Core skills : DBMS, DSA, flask
+### Learning
+- Data Science
+- Machine learning
+- Unix
 ### Projects
 #### Flash card
 - Technology used : Python, flask, SQLite, HTML, CSS
