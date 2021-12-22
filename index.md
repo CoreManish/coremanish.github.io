@@ -12,3 +12,4 @@
 - Screenshot: ![screenshot](images/flashcard.png)
 #### Student Management
 - Technology used : Python, flask, SQLite, HTML, CSS
+- Screenshot: ![screenshot](images/studentmanage.png)
