@@ -1,3 +1,18 @@
+### Objective
+To work in an environment which encourages me to succed and grow professionally where I can utilize my skills and knowledge appropriately.
+### Languages
+- Hindi
+- English
+- Maithili
+- Bhojpuri
+### Co-curricular activities
+- Drama (Awarded with memento by IMS BHU)
+- Youth parliament (Faculty of Law BHU)
+### Hobbies
+- Flute
+- Teaching
+- Travelling
+- Drama
 ### Education
 - Diploma in Microfinance and Entrepreneurship, IMS BHU
 - BSc Physics, ISc BHU
