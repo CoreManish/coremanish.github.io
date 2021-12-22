@@ -9,5 +9,6 @@
 #### Flash card
 - Technology used : Python, flask, SQLite, HTML, CSS
 - Live link : [Go](https://manishflashcard.curecode.repl.co/)
+- Screenshot: ![screenshot](images/flashcard.png)
 #### Student Management
 - Technology used : Python, flask, SQLite, HTML, CSS
