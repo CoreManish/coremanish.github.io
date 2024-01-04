@@ -9,29 +9,31 @@ To work in an environment which encourages me to succed and grow professionally 
 - Drama (Awarded with memento by IMS BHU)
 - Youth parliament (Faculty of Law BHU)
 ### Hobbies
-- Flute
 - Teaching
+- Flute
 - Travelling
 - Drama
 ### Education
 - Diploma in Microfinance and Entrepreneurship, IMS BHU
-- BSc Physics, ISc BHU
-- MSc Physics, ISc BHU
 - Enterpreneurship, UPGRAD
-- BSc in programming and Data Science, IITM
+- BS in Data Science and Application, IITM
 ### Skills
-- Languages : C, PHP, Python, JavaScript
-- Core skills : DBMS, DSA, flask
-### Learning
-- Data Science
-- Machine learning
-- Unix
+- Languages : Python, JavaScript, C, Java
+- Core skills : DBMS, DSA, flask, ML, LINUX, VUEJS
 ### Projects
 #### Flash card
-- Technology used : Python, flask, SQLite, HTML, CSS
-- Live link : [Go](https://manishflashcard.curecode.repl.co/)
-- Screenshot: ![screenshot](images/flashcard.png)
-#### Student Management
-- Technology used : Python, flask, SQLite, HTML, CSS
-- Live link : [Go](https://studentmanage.curecode.repl.co/)
-- Screenshot: ![screenshot](images/studentmanage.png)
+- Remember facts and test momory
+- Technology used : Python, flask, flask sqlalchemy, SQLite, HTML, CSS, bootstrap, celery, flask cache, 
+- Repo link : [Go](https://github.com/CoreManish/flashcard-mad2-project)
+
+#### Grocry store sale analysis
+- Same project was done using three different tools
+    - pandas
+    - excel
+    - PowerBI 
+-  link : [Go](https://www.kaggle.com/code/intmanish/grocery-sale-drop-analysis)
+
+#### Marketing strategy
+- A machine learning based project
+-  link : [Go](https://www.kaggle.com/code/intmanish/mlpnotebook)
+
